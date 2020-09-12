@@ -1,0 +1,1 @@
+I let myself take my time and have fun with this one! When thinking about tradeoffs between the nebulous concept of elegance vs. stupid but simple, I went stupid. As such, this was more of a live learning process with some code I may find useful instead of a polished program.
